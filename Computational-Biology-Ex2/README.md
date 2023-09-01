@@ -1,4 +1,4 @@
-# Computational Biology HW 3
+# Computational Biology HW 2
 
 ## Authors
 
