@@ -1,5 +1,4 @@
 # Computational Biology HW 1
-Done with [@ghsumhubh](https://github.com/ghsumhubh)
 ## Setup
 No setup is needed, just make sure Ex1.py is in the selected directory.
 ## Running
@@ -29,3 +28,9 @@ We used the following libraries
 * Tkinter
 * Numpy
 * Matplotlib
+
+## Authors
+
+- [@ghsumhubh](https://www.github.com/ghsumhubh)
+- [@idansi98](https://github.com/idansi98)
+
